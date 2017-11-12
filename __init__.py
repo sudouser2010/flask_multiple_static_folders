@@ -1,1 +1,1 @@
-from . helper import transform_app
+from flask_multiple_static_folders import *
