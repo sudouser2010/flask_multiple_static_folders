@@ -11,6 +11,6 @@ setup(
   keywords = ['flask', 'multiple', 'many', 'static', 'folders'],
   classifiers = [],
   install_requires=[
-  'flask==0.12.2',
+  'flask==1.0',
   ],
 )
